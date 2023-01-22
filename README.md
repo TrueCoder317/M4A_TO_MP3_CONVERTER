@@ -1,4 +1,4 @@
-# m4a_to_mp3
+# M4A To MP3
 
 A very crude audio converter that "just works". 
 
