@@ -1,4 +1,4 @@
-# A converter I got an AI to make to change m4a files to mp3 to make custom stations in CP2077
+# M4A TO MP3
 
 A very crude audio converter that "just works". 
 
